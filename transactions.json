@@ -1,43 +1,5 @@
 {
-  "customers": [
-{
-"id": 1,
-"name": "Ahmed Ali"
-},
-{
-"id": 2,
-"name": "Aya Elsayed"
-},
-
-{
-"id": 3,
-"name": "Mina Adel"
-},
-{
-"id": 4,
-"name": "Sarah Reda"
-},
-{
-"id": 5,
-"name": "Mohamed Sayed"
-},
-{
-  "id": 6,
-  "name": "Amara Said"
-},
-{
-  "id": 7,
-  "name": "Zainab El-Gamal"
-},
-{
-  "id": 8,
-  "name": "Faisal El-Mahmoud"
-},
-{
-  "id": 9,
-  "name": "Nada El-Aly"
-}
-],
+ 
 "transactions": [
 {
 "id": 1,

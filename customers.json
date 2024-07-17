@@ -1,6 +1,5 @@
- {
 
- "customers": [
+  [
 {
 "id": 1,
 "name": "Ahmed Ali"
@@ -39,4 +38,4 @@
   "name": "Nada El-Aly"
 }
 ]
- }
+ 
